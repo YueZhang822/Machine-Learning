@@ -1,2 +1,3 @@
 # Machine-Learning
-Machine Learning Related
+
+This repository is a collection of ML / DL related practice. 
